@@ -7,4 +7,4 @@ for %%x in (%*) do (
 	echo.
 	type %%~x
 )
-)
+) > doc.md
