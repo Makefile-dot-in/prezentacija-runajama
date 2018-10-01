@@ -1,0 +1,1 @@
+*[Parādās klimata joslu karte]*
