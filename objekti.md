@@ -10,5 +10,13 @@
     * vēsturisks ciemats: veclaicīgas ēkas, muzeji u.c.
 * Kafijas reģions
     * arī saukts par "Kafijas trīsstūri"
+* Kartogena
+    * deklarēta kā UNESCO Pasaules Mantojums 1984.g. par tās vēsturisko nozīmību kā ostas pilsētai
+* Taironas Nacionālais dabas parks
+    * liela augu un dzīvnieki daudzveidība
+    * skaistas pludmales
+* Kano Kristales
+    * skaistākā upe Kolumbijā
+    * sastāv no tādām krāsām kā dzeltena, zaļa, zila, melna un sarkana
     
 *[Atsauce: http://www.uncovercolombia.com/en/item/top-10-amazing-places-to-visit-in-colombia]*
